@@ -16,6 +16,6 @@ Membangun Webservice Menggunakan Nodejs
 - `curl -X PUT http://localhost:5000/about`
 - `curl -X DELETE http://localhost:5000/about`
 
-#### Commit Response Code
+#### Commit Response Code, Response Header, Response Body
 - `curl -X DELETE http://localhost:5000 -i`
 - `curl -X GET http://localhost:5000/about -i`
